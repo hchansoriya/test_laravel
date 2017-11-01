@@ -10,8 +10,8 @@
 ## Installation Step
 
 1) create database and configure .env file
-2) run migrate commond
-3) run db:seed
+2) run migrate artisan commond
+3) run db:seed artisan commond
 
 Credentials Details
 
